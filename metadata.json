@@ -1,0 +1,7 @@
+{
+  "name": "Lucky Lion's Treasure Hunt",
+  "description": "A fun, dynamic lottery app for kids featuring a magical Gachapon machine, dynamic probabilities, and a treasure chest inventory.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
